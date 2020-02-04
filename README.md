@@ -20,7 +20,7 @@
 
  </br>
  
-<img src="https://github.com/jhsonmac/Template-README/blob/master/home.png?raw=true" width=990px />
+<img src="https://github.com/jhsonmac/ADOP/blob/master/img/home.png?raw=true" width=990px />
 
 ## :beginner: Techs
 
